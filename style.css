@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Concert+One&family=Handlee&display=swap");
+.jumbotron {
+  padding-top: 7rem;
+  background-color: rgb(169, 179, 238);
+}
+#PJJ {
+  background-color: rgb(169, 179, 238);
+}
+.th {
+  background-color: rgb(169, 179, 238);
+}
+h1,
+h2 {
+  font-family: "Concert One", sans-serif;
+}
+.cakep {
+  font-family: "Concert One", sans-serif;
+}
+.font {
+  font-family: "Handlee", serif;
+}
+section {
+  padding-top: 2rem;
+}
+.btn {
+  background-color: #a9b3ee;
+}
+.Gallery {
+  padding-top: 7rem;
+}
